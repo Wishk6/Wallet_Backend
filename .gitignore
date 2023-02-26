@@ -1,0 +1,4 @@
+node_modules/
+src/common/jwt.utils.js
+src/common/database.config.js
+.idea/
